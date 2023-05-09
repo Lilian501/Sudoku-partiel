@@ -16,3 +16,10 @@ int victoire(char tableau[])
   
   
 }
+
+int création(int nombre)
+  
+{
+  /* Cette fonction prend en parametre la taille du tableau choisit par le joueur et le crée.  */
+  
+}
