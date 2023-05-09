@@ -1,1 +1,4 @@
+int affichertableau(char tableau)
+{
 
+}
